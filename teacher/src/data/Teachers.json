@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "teachername": "Anica Ella ",
+    "specialization": "Web Development"
+  },
+  {
+    "id": 2,
+    "teachername": "Fiona Adelaide",
+    "specialization": "Artificial Intelligence"
+  }
+]

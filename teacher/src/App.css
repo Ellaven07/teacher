@@ -182,3 +182,9 @@
     border-right-color: var(--border);
   }
 }
+nav {
+ gap: 10px;
+ display: flex;
+ color: green;
+}
+
