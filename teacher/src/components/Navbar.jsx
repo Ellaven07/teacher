@@ -6,6 +6,7 @@ export default function Navbar() {
      <h1>Teachers Management system</h1>
       <nav>
         <Link to="/teachers">Teachers List</Link>{" "}
+        &nbsp; 
         <Link to="/add-teacher">Add Teacher</Link>
       </nav>
 
